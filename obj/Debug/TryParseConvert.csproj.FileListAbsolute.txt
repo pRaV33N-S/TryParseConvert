@@ -1,0 +1,8 @@
+D:\Raven\Practice Exercise\C#\TryParseConvert\bin\Debug\TryParseConvert.exe.config
+D:\Raven\Practice Exercise\C#\TryParseConvert\bin\Debug\TryParseConvert.exe
+D:\Raven\Practice Exercise\C#\TryParseConvert\bin\Debug\TryParseConvert.pdb
+D:\Raven\Practice Exercise\C#\TryParseConvert\obj\Debug\TryParseConvert.csproj.AssemblyReference.cache
+D:\Raven\Practice Exercise\C#\TryParseConvert\obj\Debug\TryParseConvert.csproj.SuggestedBindingRedirects.cache
+D:\Raven\Practice Exercise\C#\TryParseConvert\obj\Debug\TryParseConvert.csproj.CoreCompileInputs.cache
+D:\Raven\Practice Exercise\C#\TryParseConvert\obj\Debug\TryParseConvert.exe
+D:\Raven\Practice Exercise\C#\TryParseConvert\obj\Debug\TryParseConvert.pdb
